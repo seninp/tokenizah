@@ -1,4 +1,4 @@
-package edu.hawaii.senin;
+package net.seninp.neras;
 
 import static org.junit.Assert.assertTrue;
 
